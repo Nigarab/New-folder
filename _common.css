@@ -1,0 +1,162 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0
+  }
+body{
+  max-width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family:"Poppins",sans-serif
+}
+header .header-container{
+  display:flex;
+  justify-content:center;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:80px;
+  background-color:#fff;
+  margin-top:80px}
+header nav{
+  display:flex;
+  gap:50px
+}
+header .nav-link{
+  font-size:20px;
+  color:#000;
+  text-decoration:none
+  }
+.container .background{
+  background:url(image.png.png);
+  background-size:cover;
+  background-position-x: center;
+  height:800px;
+  width:100%
+}
+.container .hero-title{
+  color:#fff;
+  font-size:78px;
+  padding-top:250px;
+  padding-left:80px
+}
+.container .for-button{
+  margin-left:90px;
+  margin-top:80px}
+.container .for-container{
+  background-color:#ff3838;
+  size:100px;
+  border-radius:45px;
+  width:220px;
+  height:72px;
+  color:#fff;
+  font-size:20px
+}
+.about-container {
+  margin-top: 60px;
+}
+.about-container .about{
+  text-align: center;
+  font-size: 60px;
+}
+.about-container .lorem{
+  text-align: center;
+  font-size: 20px;
+  color: #939393;
+  font-family: 'Poppins', sans-serif;
+}
+.about-container .button-container{
+  margin-top:50px;
+  margin-left: 37%;
+}
+.about-container .for-button1{
+  background-color: #ff3838;
+  size:100px;
+  border-radius:45px;
+  width:220px;
+  height:72px;
+  color:#fff;
+  font-size:20px
+}
+.about-container .how-it-works{
+  margin-top:60px;
+}
+.about-container .how-container{
+  text-align: center;
+  font-size: 50px;
+}
+.for-pic-and-write{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+.for-pic-and-write .pic-side{
+ padding: 20px;
+
+  
+}
+.for-pic-and-write .left { 
+  width: 100%;
+  height: 350px;
+}
+.for-pic-and-write .write-side{
+  margin-top: 50px;
+  font-size: 30px;
+  
+}
+.for-pic-and-write .right-write-lorem{
+  color: #939393;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px;
+  
+}
+
+.for-pic-and-write .how-button{
+  background-color: #ff3838;
+  size:100px;
+  border-radius:45px;
+  border-color: #ff3838;
+  width:220px;
+  height:72px;
+  color:#fff;
+  font-size:20px;
+}
+.for-write-and-pic{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+.for-write-and-pic .left-write{
+  
+  margin-top: 80px;
+  
+  font-size: 30px;
+}
+.for-write-and-pic .left-lorem {
+  color: #939393;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px;
+}
+.for-write-and-pic .right-pic{
+  margin-top: 80px;
+ 
+}
+.for-write-and-pic .right{
+  width: 100%;
+  height: 350px;
+}
+.for-write-and-pic .button-left{
+  padding: 50px;
+}
+.for-write-and-pic .how-button2{
+  background-color: #ff3838;
+  size:100px;
+  border-radius:45px;
+  border-color: #ff3838;
+  width:220px;
+  height:72px;
+  color:#fff;
+  font-size:20px
+}
+
+                                      
+                                    
